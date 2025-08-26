@@ -1,0 +1,5 @@
+{
+  "name": "FBA Profitability Calculator with Loan",
+  "description": "An advanced calculator to analyze the profitability of an FBA product, including loan amortization. Users can input product costs, Amazon fees, advertising expenses, and loan parameters to estimate margins, ROI, break-even points, and monthly cash flow after debt service.",
+  "requestFramePermissions": []
+}
